@@ -1,0 +1,13 @@
+.cardStyle{
+    border: 1px solid deepskyblue;
+    margin: 15px;
+    border-radius: 15px;
+    padding: 15px;
+}
+.cardStyle img{
+    border-radius: 20px;
+}
+.imageContainer img{
+    width: 100px;
+    
+}
